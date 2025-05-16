@@ -1,6 +1,6 @@
 name: Model CICD
 on: workflow_dispatch
-job:
+jobs:
   model-ci:
     runs-on: ubuntu-latest
     steps:
