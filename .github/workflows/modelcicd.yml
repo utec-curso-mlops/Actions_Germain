@@ -1,4 +1,4 @@
-name: Model CI /CD
+name: Model CICD
 on: workflow_dispatch
 job:
   model-ci:
